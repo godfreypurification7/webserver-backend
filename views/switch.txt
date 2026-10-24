@@ -1,0 +1,10 @@
+switch (req.url) {
+    case '/':
+        res.statusCode=200;
+        path=path.join(__dirname, 'views', 'index.html');
+        fs.readFile(path, 'utf8',(err,data)=>{
+            res.end(data);
+        });
+        
+        break;
+    }

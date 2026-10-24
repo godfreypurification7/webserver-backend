@@ -1,0 +1,66 @@
+20261021	15:14:06	9100ea3b-8fb9-49c7-a96b-d6282834a6cf	undefined :undefined
+20261021	15:14:06	490a70ce-921e-49af-ba25-a8130dff7fef	undefined :undefined
+20261021	15:14:06	c96cbd6f-4a75-4870-a159-2788f2373334	undefined :undefined
+20261022	01:04:02	5afccef1-579a-466c-8c90-245c137f7a81	undefined :undefined
+20261022	01:04:19	a72bd2d5-3a68-4547-a663-b240a5f4d228	undefined :undefined
+20261022	01:10:51	2f9527e7-43a9-449b-8fe3-aee10beca578	undefined :undefined
+20261023	01:07:14	8b1a368c-38c3-49a6-8c26-5e1f81e861f5	undefined :undefined
+20261023	01:10:18	e86146e4-588d-45f0-9b0c-7c05cebf402e	undefined :undefined
+20261023	01:10:21	655ca3ef-8019-4489-898c-d35c1eb19072	undefined :undefined
+20261023	01:13:15	9c6920b5-2c46-4b62-921e-2852853504e7	undefined :undefined
+20261023	01:20:56	2165c1b6-ae17-464a-b387-749e4012bde4	undefined :undefined
+20261023	01:21:28	02d3613d-8587-4bae-9714-edd88fec2cd1	undefined :undefined
+20261023	01:21:34	f2e7fb62-8704-4a20-a380-baf480fb0cac	undefined :undefined
+20261023	01:21:53	7450a367-7fb7-4ed4-9921-372a85dc66d7	undefined :undefined
+20261023	01:22:15	49672f41-18d1-4f21-93d2-8973a851113e	undefined :undefined
+20261023	01:22:37	f07e0b9a-dc0a-419c-97af-0ffa41bad73c	undefined :undefined
+20261023	01:23:22	9682086c-6691-4eef-a62d-51dd57e969b0	undefined :undefined
+20261023	01:24:51	8a101f52-214d-4c10-af7b-d9f298db7f1d	undefined :undefined
+20261023	01:25:31	da17e0bc-e8c1-498f-b4e8-78f04ed8921d	undefined :undefined
+20261023	01:26:01	fec27334-e1c8-46f9-b7c6-500d314aca1c	undefined :undefined
+20261023	01:28:10	24f8c07c-abd8-4482-9f66-43f35e324aca	undefined :undefined
+20261023	01:28:16	fb50dfc1-bda4-431c-b10f-43c1c13f0897	undefined :undefined
+20261023	01:33:59	926ee80e-0de8-4769-8459-f8381544dacc	undefined :undefined
+20261023	01:34:00	8518fa7a-15bc-49c9-b694-39a239593204	undefined :undefined
+20261023	01:35:17	da21b059-f92a-457e-9896-5ad2bd377699	undefined :undefined
+20261023	01:35:18	03d264e4-d326-453d-b597-55b7a602987d	undefined :undefined
+20261023	01:35:18	7ad1ecac-15e6-4892-8d64-6e44ebdb578b	undefined :undefined
+20261023	01:35:19	cee165e2-7f48-47bd-adfd-ad0552e8057c	undefined :undefined
+20261023	01:35:19	25c4f735-8fab-495d-b780-cd1aa24b16bf	undefined :undefined
+20261023	01:35:19	576ca951-f5a4-4948-9a4e-7d666eb235c5	undefined :undefined
+20261023	01:35:19	53eb273a-ddbd-482d-ac04-011b3ae3363a	undefined :undefined
+20261023	01:35:51	bbcd6909-f28f-4c44-aef5-01eab8548528	undefined :undefined
+20261023	01:36:06	c063e5a0-0e6a-41fc-be9e-3041d4776678	undefined :undefined
+20261023	01:38:59	9a607674-cc4a-4dd9-ade3-36595601e65a	undefined :undefined
+20261023	01:40:30	7ee5c586-caf5-433b-9a92-05b55f8f819e	undefined :undefined
+20261023	01:41:29	30d181df-3786-4d4f-a515-24d06f8766fc	undefined :undefined
+20261023	01:44:15	97eea129-4954-48b0-9602-3074b1b5b433	undefined :undefined
+20261023	01:44:16	e2e63219-3490-48e4-a533-346884c066f6	undefined :undefined
+20261023	01:46:03	94b05904-bccd-440a-b46c-24ac70d7441b	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	01:51:13	f8368d5f-df28-4618-b274-3192afe90b20	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	01:51:14	423da41a-9968-4ecf-af1d-a5cc0885fdae	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	01:52:39	7274f264-7e56-4735-a02a-0c1fe90ba442	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	01:52:40	64ad37a5-fe3e-490a-976d-5bec29d2cff3	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	01:52:40	d2a6473d-566c-4d7d-9ee0-11655923c45e	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:35:54	f9eb2007-c92c-404c-8222-bd16305480f7	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:37:29	9bfb4ad9-3e17-4dfe-97a2-52c69a341c2e	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:37:32	3846ac90-8ed4-4efe-90d7-a9e6c32c28ba	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:37:33	db936b90-981c-4c3f-b64a-85dafd6ed724	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:37:33	65401d1d-78dc-4b66-9e9b-0f7e592f30df	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:37:33	e763c91f-8d33-4382-9598-243ecdb786e1	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:37:43	0a3487c1-8d93-4ea9-a6a1-ab3fc78cae72	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:43:46	37b9b17d-285f-4900-aecf-831729d6c5f1	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	10:45:25	0daaee49-510f-4778-9d23-6cc549a23d62	SyntaxError: Unexpected token '"', ""{'user': "... is not valid JSON
+20261023	12:21:51	022c8d07-f5ed-46e7-ba64-7fa9808d988b	ReferenceError: username is not defined
+20261023	12:22:47	a2342a70-30b3-47c8-b495-f00e86afb9ac	ReferenceError: username is not defined
+20261023	12:23:38	8e8725bd-d755-40d6-94ee-ea504ed61212	ReferenceError: username is not defined
+20261023	12:26:53	131914f8-5eab-4a2d-b987-099a45c03ef5	ReferenceError: username is not defined
+20261023	12:27:37	45b78e5e-1763-4a1e-ac51-25566004ecf4	ReferenceError: username is not defined
+20261023	12:33:02	1683c9e2-737c-40ba-b7c2-fdde14eb37bc	ReferenceError: username is not defined
+20261023	12:41:29	b74701c2-1043-4cc1-8ef5-2657dd366f9f	ReferenceError: usersDB is not defined
+20261023	12:42:03	d896396d-55e2-470b-812a-24b6afe82072	SyntaxError: Unexpected token '"', ""\n\n{\"us"... is not valid JSON
+20261023	12:42:58	56bd7b99-8f25-4a62-a92f-a8e3fbc6cca1	SyntaxError: Unexpected token '"', ""\n\n{{\n "... is not valid JSON
+20261023	12:44:30	62bc4c9c-969f-4874-9faf-ce672b4d69e1	SyntaxError: Unexpected token '"', ""\n\n{{\n "... is not valid JSON
+20261024	00:40:20	5003acf5-cd25-4a81-b3ff-3367f7279af6	Error: ENOENT: no such file or directory, open '/home/godfrey/software/nodejs/webserver/controller/.../model/user.json'
+20261024	00:42:07	d06710d6-5f5f-4440-b3e7-f8caef56257a	Error: ENOENT: no such file or directory, open '/home/godfrey/software/nodejs/webserver/controller/.../model/user.json'
+20261024	00:51:53	cd7632ec-6778-47c2-8e0b-7790b6db11f1	SyntaxError: Unexpected token '"', ""eyJhbGciO"... is not valid JSON
